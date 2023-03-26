@@ -1,0 +1,36 @@
+
+.f1
+{
+  margin-left: 500px;
+  background-color: #FFF1DC;
+  margin-right: 500px;
+}
+
+  .f2
+{
+  margin: 5px;
+  margin-left: 40px;
+}
+.f3
+{
+  width: 100px;
+  height: 30px;
+  margin-left: 78px;
+  margin-top: 10px;
+  background-color: #FFA3FD;
+}
+.f4
+{
+    margin-top: 5px;
+    height: 50px;
+    margin-left: 40px;
+}
+label
+{
+  margin-left: 40px;
+}
+
+body
+{
+  background-image: url(https://img.freepik.com/free-photo/selective-focus-shot-pencil-notebook-white-table_181624-46156.jpg?size=626&ext=jpg&ga=GA1.1.507189585.1671861892&semt=ais);
+}
